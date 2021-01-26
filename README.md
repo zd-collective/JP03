@@ -1,7 +1,7 @@
 # JP03
-![JP03](img/render2.PNG)
+![JP03](img/render2.png)
 
-![JP03](img/render1.PNG) 
+![JP03](img/render1.png) 
 
 The goal of this project was to keep the aesthetics of the original JP01 by overset (and by extension, the JP02 run by JLabs) while redoing the internals and fixing the original's issues.
 
